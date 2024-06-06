@@ -1,0 +1,14 @@
+                                         
+( )                              _        
+| |__     _    _ __   _ _  _ __ (_)   _   
+|  _ `\ /'_`\ ( '__)/'_` )( '__)| | /'_`\ 
+| | | |( (_) )| |  ( (_| || |   | |( (_) )
+(_) (_)`\___/'(_)  `\__,_)(_)   (_)`\___/'
+                                         
+  
+  dia            clase 1          descanso          clase 2                descanso       clase 3
+lunes         6 am hasta 9       breakfast      10.15 am hasta 1pm          break         2 hasta 5pm
+Martes        6 am hasta 9       breakfast      10.15 am hasta 1pm          break          libre 
+Miercoles        libre           breakfast            libre                 break          libre 
+Jueves        6 am hasta 9       breakfast            libre                 break          libre
+Vienres       6 am hasta 9       breakfast      10.15 am hasta 1pm          break          libre
